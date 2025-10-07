@@ -1,0 +1,7 @@
+This uncleaned dataset is a Jupyter Notebook file for interacting with the Rutgers Schedule of Classes API
+
+Disclaimer: This is a Jupyer Notebook file, which is an executable document with code, output, and text explanation.
+
+See the Jupyter Notebook file for description of the data.
+
+Feel free to use data cleaning, visualization, and predictive modeling to analyze the dataset and find interesting patterns.

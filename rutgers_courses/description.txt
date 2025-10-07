@@ -1,0 +1,15 @@
+This uncleaned dataset contains information on all Rutgers-NB courses.
+
+Disclaimer: This is a JSON file, keep in mind that the data is nested and you'll need to traverse the data in a different way than CSVs.
+
+The data contains this information (in multiple nested sections):
+- Course_Title: The full name of the courses
+- Course_ID: The complete course code, including school, subject, and course number
+- Credits: The number of academic credits of the course
+- Subject_Description: The name of the academic department or subject area
+- School: The official school or college offering the course
+- Academic_Level: The target Level of the course (undergraduate, graduate)
+- Open-Sections: A count of the available course sections that currently have seats open.
+- Sections_Data: A nested list containing granular data for all scheduled sections, including instructor names, meeting times, campus locations, building codes, and final exam details
+
+Feel free to use data cleaning, visualization, and predictive modelling to analyze the dataset and find interesting patterns.
